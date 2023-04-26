@@ -8,5 +8,5 @@
 -  e tambem permite fazer novas perguntas, responder qualquer pergunta e quantas vezes desejar.
 -  O site tambem organiza as mais recentes primeiro, assim como as respostas mais recentes.
   
--  img:
+  
 ![image](https://user-images.githubusercontent.com/67138155/102005192-b833f900-3cf5-11eb-990b-1fbc56458af0.png)
