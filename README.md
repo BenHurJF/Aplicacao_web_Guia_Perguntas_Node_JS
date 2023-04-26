@@ -4,11 +4,6 @@
 
 <h5/> O Site possui as seguintes finalidades:
 
-
-
-
-
-
 -  Permitir exibir lista de perguntas  com respectivas respostas das mesmas.
 -  e tambem permite fazer novas perguntas, responder qualquer pergunta e quantas vezes desejar.
 -  O site tambem organiza as mais recentes primeiro, assim como as respostas mais recentes.
